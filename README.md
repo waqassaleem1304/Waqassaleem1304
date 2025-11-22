@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1>Hi, I'm Muhammad Waqas Saleem</h1>
 
-<!--
-**waqassaleem1304/Waqassaleem1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Energy and Environmental Engineer | Decarbonization | Sustainability</h3>
 
-Here are some ideas to get you started:
+<p style="text-align: justify;">
+My journey began in traditional hydrocarbon engineering, where I trained as a petroleum engineer and learned how large-scale energy systems operate. Over time, I became motivated to contribute to climate solutions, which led me to shift toward energy transition and low-carbon engineering. This shift began when my team and I presented a decarbonization strategy for the oil and gas industry at <strong>ADIPEC 2019</strong>. We presented our work to industry experts and secured 3rd position among 19 international teams.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="text-align: justify;">
+I joined the <strong>Erasmus Mundus program (ME3+)</strong> with a fully funded scholarship, selected among the top one percent globally. I completed a double master's degree in Energy Engineering and Environmental Management, studying in Hungary, Italy, and France. During this time, I gained practical experience through an internship at <strong>Air Liquide</strong>, applying sustainability and environmental engineering principles in an industrial setting.
+</p>
+
+<p style="text-align: justify;">
+My work combines engineering fundamentals with environmental analysis, life cycle thinking, carbon footprint modeling, and programming to support energy transition, decarbonization, and low-carbon solutions. These experiences have made me open-minded, fostered teamwork, and strengthened my adaptability in diverse and multidisciplinary environments.
+</p>
+
+<p style="text-align: justify;">
+🔗 Connect with me on <a href="https://www.linkedin.com/in/muhammadwaqassaleem1304/"><strong>LinkedIn</strong></a>
+</p>
+
+<h2>📘 Projects</h2>
+<ul>
+<li>Project 1</li>
+<li>Project 2</li>
+<li>Project 3</li>
+<li>Project 4</li>
+</ul>
+
+<h2>🎓 Certifications</h2>
+<p>
+<!-- Add certifications here later -->
+</p>
