@@ -17,7 +17,8 @@ My work combines engineering fundamentals with environmental analysis, life cycl
 <h2>📘 Projects</h2>
 <ul>
 <li><a href="https://github.com/waqassaleem1304/Techno-Economic-Optimization-of-Green-Hydrogen-Production-System" target="_blank"> Techno-Economic Optimization of Green Hydrogen Production System</a></li>
-  <li><a href="https://github.com/waqassaleem1304/Life-Cycle-Assessment-LCA-of-50kW-Solar-PV-System" target="_blank"> Life Cycle Assessment (LCA) of 50kW Solar PV System</a></li>
+<li><a href="https://github.com/waqassaleem1304/Life-Cycle-Assessment-LCA-of-50kW-Solar-PV-System" target="_blank"> Life Cycle Assessment (LCA) of 50kW Solar PV System</a></li>
+<li><a href="https://github.com/waqassaleem1304/-Optimizing-Energy-Use-in-Power-Grids" target="_blank"> Optimizing Energy Use in Power Grids</a></li>
 <li>Project 2</li>
 <li>Project 3</li>
 <li>Project 4</li>
