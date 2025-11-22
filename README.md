@@ -12,10 +12,10 @@ My work combines engineering fundamentals with environmental analysis, life cycl
 
 </p>
 <a href="mailto:waqas.saleem1304@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40px" style="margin-right:30px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30px" style="margin-right:15px;" />
 </a>
 <a href="https://www.linkedin.com/in/muhammadwaqassaleem1304/" target="_blank">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="LinkedIn" width="40px" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="LinkedIn" width="30px" />
 </a>
 </p>
 
