@@ -12,6 +12,7 @@ My work combines engineering fundamentals with environmental analysis, life cycl
 
 <p style="text-align: justify;">
 🔗 Connect with me on <a href="https://www.linkedin.com/in/muhammadwaqassaleem1304/"><strong>LinkedIn</strong></a>
+📧 Email me at <a href="mailto:waqas.saleem1304@gmail.com">waqas.saleem1304@gmail.com</a>
 </p>
 
 <h2>📁 Pyhton Projects</h2>
