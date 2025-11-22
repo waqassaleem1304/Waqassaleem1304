@@ -14,7 +14,7 @@ My work combines engineering fundamentals with environmental analysis, life cycl
 🔗 Connect with me on <a href="https://www.linkedin.com/in/muhammadwaqassaleem1304/"><strong>LinkedIn</strong></a>
 </p>
 
-<h2>📁 Projects</h2>
+<h2>📁 Pyhton Projects</h2>
 <ul>
 <li>⚡ <a href="https://github.com/waqassaleem1304/Techno-Economic-Optimization-of-Green-Hydrogen-Production-System" target="_blank"> Techno Economic Optimization of Green Hydrogen Production System</a></li>
 <li>🌱 <a href="https://github.com/waqassaleem1304/Life-Cycle-Assessment-LCA-of-50kW-Solar-PV-System" target="_blank"> Life Cycle Assessment (LCA) of 50kW Solar PV System</a></li>
