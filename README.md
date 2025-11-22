@@ -10,6 +10,8 @@ I joined the Erasmus Mundus program (ME3+) with a fully funded scholarship, comp
 <p style="text-align: justify;">
 My work combines engineering fundamentals with environmental analysis, life cycle thinking, carbon footprint modeling, and programming to support energy transition, decarbonization, and low-carbon solutions. These experiences have shaped me into an open-minded professional, fostering teamwork and adaptability in multidisciplinary environments.
 
+<p style="text-align: justify;">
+Beyond work, you can find me doing graphic design and playing badminton. Check out my graphic design portfolio here: <a href="https://waqassaleem1304.wixsite.com/website" target="_blank">Portfolio</a>.
 </p>
 
 
