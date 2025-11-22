@@ -14,7 +14,7 @@ My work combines engineering fundamentals with environmental analysis, life cycl
 🔗 Connect with me on <a href="https://www.linkedin.com/in/muhammadwaqassaleem1304/"><strong>LinkedIn</strong></a>
 </p>
 
-<h2>📘 Projects</h2>
+<h2>📁 Projects</h2>
 <ul>
 <li>⚡ <a href="https://github.com/waqassaleem1304/Techno-Economic-Optimization-of-Green-Hydrogen-Production-System" target="_blank"> Techno Economic Optimization of Green Hydrogen Production System</a></li>
 <li>🌱 <a href="https://github.com/waqassaleem1304/Life-Cycle-Assessment-LCA-of-50kW-Solar-PV-System" target="_blank"> Life Cycle Assessment (LCA) of 50kW Solar PV System</a></li>
@@ -24,11 +24,12 @@ My work combines engineering fundamentals with environmental analysis, life cycl
 
 </ul>
 
-
-
-
-
 <h2>🎓 Certifications</h2>
-<p>
-<!-- Add certifications here later -->
-</p>
+<ul>
+<li>📘 <a href="https://drive.google.com/file/d/1grb7BwEHcUWIwPeZaZXmXh2UKnVt2IOA/view" target="_blank">Engineering for Natural Resources and Environment – DigiCamp (SPINAKER International Intensive Program)</a></li>
+<li>📗 <a href="https://drive.google.com/file/d/1Av6AedQ2SbUfPU7S-soGzTUdvcGGX85U/view" target="_blank">Introduction to the Draft Voluntary ESRS for Non-Listed SMEs – GreenomyAcademy</a></li>
+<li>📙 <a href="https://drive.google.com/file/d/1DC8wHIaJpr2X8nfjctvuGOhOiXB62BVO/view" target="_blank">Management Skills for International Business – Coursera</a></li>
+<li>📒 <a href="https://drive.google.com/file/d/1YusGuFjbN4muUiFLNqp54_olZnO5Nsjc/view?usp=sharing" target="_blank">CSRD & ESRS for Corporates – GreenomyAcademy</a></li>
+<li>💻 <a href="https://www.linkedin.com/learning/certificates/2ed115790e511772d7d52de87a035ad709a931e9a0202c589c6b4cc2bc1f33b2?trk=share_certificate" target="_blank">Leveraging AI and Data Engineering for Sustainable Solutions – LinkedIn Learning</a></li>
+<li>📊 <a href="https://www.linkedin.com/learning/certificates/d5e8bc8bf8170d648625c3273532c45d4f2882d731549685396f163253953365?trk=share_certificate" target="_blank">Understanding the Corporate Sustainability Reporting Directive (CSRD) – LinkedIn Learning</a></li>
+</ul>
