@@ -25,7 +25,7 @@ Beyond work, you can find me doing graphic design and playing badminton. Check o
 
 </ul>
 
-<h2>🎓 Certifications</h2>
+<h2> 📜 Certifications</h2>
 <ul>
 <li>📘 <a href="https://drive.google.com/file/d/1grb7BwEHcUWIwPeZaZXmXh2UKnVt2IOA/view" target="_blank">Engineering for Natural Resources and Environment – DigiCamp (SPINAKER International Intensive Program)</a></li>
 <li>📗 <a href="https://drive.google.com/file/d/1Av6AedQ2SbUfPU7S-soGzTUdvcGGX85U/view" target="_blank">Introduction to the Draft Voluntary ESRS for Non-Listed SMEs – GreenomyAcademy</a></li>
