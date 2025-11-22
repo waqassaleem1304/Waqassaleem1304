@@ -10,10 +10,17 @@ I joined the Erasmus Mundus program (ME3+) with a fully funded scholarship, comp
 <p style="text-align: justify;">
 My work combines engineering fundamentals with environmental analysis, life cycle thinking, carbon footprint modeling, and programming to support energy transition, decarbonization, and low-carbon solutions. These experiences have shaped me into an open-minded professional, fostering teamwork and adaptability in multidisciplinary environments.
 
-<p style="text-align: justify;">
-🔗 Connect with me on <a href="https://www.linkedin.com/in/muhammadwaqassaleem1304/"><strong>LinkedIn</strong></a>
-📧 Email me at <a href="mailto:waqas.saleem1304@gmail.com">waqas.saleem1304@gmail.com</a>
 </p>
+<a href="mailto:waqas.saleem1304@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40px" style="margin-right:30px;" />
+</a>
+<a href="https://www.linkedin.com/in/muhammadwaqassaleem1304/" target="_blank">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="LinkedIn" width="40px" />
+</a>
+</p>
+
+
+
 
 <h2>📁 Pyhton Projects</h2>
 <ul>
