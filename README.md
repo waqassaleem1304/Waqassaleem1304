@@ -16,11 +16,12 @@ My work combines engineering fundamentals with environmental analysis, life cycl
 
 <h2>📘 Projects</h2>
 <ul>
-<li>Project 1</li>
+<li><a href="https://github.com/waqassaleem1304/Techno-Economic-Optimization-of-Green-Hydrogen-Production-System" target="_blank"> Techno-Economic Optimization of Green Hydrogen Production System</a></li>
 <li>Project 2</li>
 <li>Project 3</li>
 <li>Project 4</li>
 </ul>
+
 
 <h2>🎓 Certifications</h2>
 <p>
