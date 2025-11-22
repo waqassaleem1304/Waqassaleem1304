@@ -3,7 +3,7 @@
 <h3>Energy and Environmental Engineer | Decarbonization | Sustainability</h3>
 
 <p style="text-align: justify;">
-My journey began in traditional hydrocarbon engineering, where I trained as a petroleum engineer and learned how large-scale energy systems operate. Over time, I became motivated to contribute to climate solutions, which led me to shift toward energy transition and low-carbon engineering. This shift began when my team and I presented a decarbonization strategy for the oil and gas industry at <strong>ADIPEC 2019</strong>. We presented our work to industry experts and secured 3rd position among 19 international teams.
+My journey began in traditional hydrocarbon engineering, where I trained as a petroleum engineer and learned how large-scale energy systems operate. Over time, I became motivated to contribute to climate solutions, which led me to shift toward energy transition and low-carbon engineering. This shift began when my team and I presented decarbonization strategies for the oil and gas industry at <strong>ADIPEC 2019</strong>. We presented our work to industry experts and secured 3rd position among 19 international teams.
 </p>
 
 <p style="text-align: justify;">
