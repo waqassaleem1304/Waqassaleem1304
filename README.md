@@ -38,8 +38,9 @@ Beyond work, you can find me doing graphic design and playing badminton. Check o
 <h2> 🤳 Connect with me:</h2>
 
 <a href="mailto:waqas.saleem1304@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30px" style="margin-right:15px;" />
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30px" style="margin-right:15px;" />
 </a>
 <a href="https://www.linkedin.com/in/muhammadwaqassaleem1304/" target="_blank">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="LinkedIn" width="30px" />
+  <img align="left" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="LinkedIn" width="30px" style="margin-right:15px;" />
 </a>
+<br style="clear:both;" />
