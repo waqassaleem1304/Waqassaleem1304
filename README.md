@@ -11,15 +11,6 @@ I joined the Erasmus Mundus program (ME3+) with a fully funded scholarship, comp
 My work combines engineering fundamentals with environmental analysis, life cycle thinking, carbon footprint modeling, and programming to support energy transition, decarbonization, and low-carbon solutions. These experiences have shaped me into an open-minded professional, fostering teamwork and adaptability in multidisciplinary environments.
 
 </p>
-<a href="mailto:waqas.saleem1304@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30px" style="margin-right:15px;" />
-</a>
-<a href="https://www.linkedin.com/in/muhammadwaqassaleem1304/" target="_blank">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="LinkedIn" width="30px" />
-</a>
-</p>
-
-
 
 
 <h2>📁 Pyhton Projects</h2>
@@ -41,3 +32,12 @@ My work combines engineering fundamentals with environmental analysis, life cycl
 <li>💻 <a href="https://www.linkedin.com/learning/certificates/2ed115790e511772d7d52de87a035ad709a931e9a0202c589c6b4cc2bc1f33b2?trk=share_certificate" target="_blank">Leveraging AI and Data Engineering for Sustainable Solutions – LinkedIn Learning</a></li>
 <li>📊 <a href="https://www.linkedin.com/learning/certificates/d5e8bc8bf8170d648625c3273532c45d4f2882d731549685396f163253953365?trk=share_certificate" target="_blank">Understanding the Corporate Sustainability Reporting Directive (CSRD) – LinkedIn Learning</a></li>
 </ul>
+
+<h2> 🤳 Connect with me:</h2>
+
+<a href="mailto:waqas.saleem1304@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30px" style="margin-right:15px;" />
+</a>
+<a href="https://www.linkedin.com/in/muhammadwaqassaleem1304/" target="_blank">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="LinkedIn" width="30px" />
+</a>
