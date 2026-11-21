@@ -2,7 +2,7 @@
 
 <h3>Energy and Environmental Engineer | Decarbonization | Sustainability</h3>
 
-My journey began in traditional hydrocarbon engineering as a petroleum engineer, where I gained insight into large-scale energy systems. Motivated to contribute to climate solutions, I shifted toward energy transition and low-carbon solutions. My team and I presented decarbonization strategies for the oil and gas industry at ADIPEC 2019, securing 3rd place among 19 international teams.  
+I began my journey in traditional hydrocarbon engineering as a petroleum engineer, where I gained insight into large-scale energy systems. Motivated to contribute to climate solutions, I shifted toward energy transition and low-carbon solutions. My team and I presented decarbonization strategies for the oil and gas industry at ADIPEC 2019, securing 3rd place among 19 international teams.  
 <p style="text-align: justify;">
   
 I joined the Erasmus Mundus program (ME3+) with a fully funded scholarship, completing a double master's in Energy Engineering and Environmental Management across Hungary, Italy, and France. During this time, I interned at Air Liquide, where I applied sustainability and environmental engineering principles in an industrial setting.  
@@ -15,14 +15,16 @@ Beyond work, you can find me doing graphic design and playing badminton. Check o
 </p>
 
 
-<h2>📁 Pyhton Projects</h2>
+<h2>📁 Projects</h2>
 <ul>
 <li>⚡ <a href="https://github.com/waqassaleem1304/Techno-Economic-Optimization-of-Green-Hydrogen-Production-System" target="_blank"> Techno Economic Optimization of Green Hydrogen Production System</a></li>
+<li>🔥 <a href="https://github.com/Waqas1304/industrial-high-temperature-heat-pump" target="_blank"> Industrial High-Temperature Heat Pump vs. Gas Boiler: Techno-Economic Model</a></li>
 <li>🌱 <a href="https://github.com/waqassaleem1304/Life-Cycle-Assessment-LCA-of-50kW-Solar-PV-System" target="_blank"> Life Cycle Assessment (LCA) of 50kW Solar PV System</a></li>
 <li>🔬 <a href="https://github.com/waqassaleem1304/CO2-Emissions-vs.-Carbon-Pricing-Sweden-Case-Study" target="_blank"> CO2 Emissions vs. Carbon Pricing : Sweden Case Study</a></li>
 <li>💡 <a href="https://github.com/waqassaleem1304/-Optimizing-Energy-Use-in-Power-Grids" target="_blank"> Optimizing Energy Use in Power Grids</a></li>
 <li>📊 <a href="https://github.com/waqassaleem1304/Carbon-Calculator" target="_blank"> Carbon Footprint Calculator</a></li>
-
+<li>📈 <a href="https://github.com/Waqas1304/air-liquide-revenue-reconciliation-powerbi" target="_blank"> Revenue Reconciliation Dashboard (Power BI)</a></li>
+<li>🛡️ <a href="https://github.com/Waqas1304/Nis2-iso27001-mapping" target="_blank"> NIS2 to ISO 27001 Mapping</a></li>
 </ul>
 
 <h2> 📜 Certifications</h2>
